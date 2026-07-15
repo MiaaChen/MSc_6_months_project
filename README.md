@@ -98,6 +98,7 @@ See `metadata/data_availability.md` for more detail.
 
 ## Author
 
-Your Name  
+ChiaChi Chen (Mia Chen)
+Student number: 25127820
 King's College London  
 6-month research project
